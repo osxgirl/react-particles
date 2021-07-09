@@ -10,28 +10,11 @@ function App() {
             <Particles options={particlesOptions}/>
             <header className="App-header">
                 <img src={logo} className="App-logo" alt="logo"/>
+    
                 <p>
-                    Edit <code>src/App.js</code> and save to reload.
+                    Heather Haas
                 </p>
-                <p>
-                    Edit <code>src/particles.json</code> to customize Particles, then save to reload.
-                </p>
-                <a
-                    className="App-link"
-                    href="https://reactjs.org"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                >
-                    Learn React
-                </a>
-                <a
-                    className="App-link"
-                    href="https://particles.js.org"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                >
-                    See Particles samples
-                </a>
+              
             </header>
         </div>
     );
